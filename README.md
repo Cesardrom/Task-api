@@ -183,16 +183,6 @@ jdbc:h2:mem:tasksdb
 mvn clean spring-boot:run
 ```
 
----
-
-## 🧪 Tests
-
-- Tests unitarios con **JUnit 5**
-- Mocks con **Mockito**
-- Cobertura típica de:
-  - Servicio de aplicación
-  - Controlador (unitario)
-  - Adaptador de persistencia (unitario)
 
 > *Una buena arquitectura no es la más compleja, sino la que permite evolucionar sin dolor.*
 
